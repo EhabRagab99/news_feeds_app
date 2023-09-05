@@ -1,0 +1,64 @@
+{
+  "colors": {
+    "light_mode": {
+      "app_bar": {
+        "appbarBackground": "#13294B"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": "#F86B34",
+        "secondaryColor": "#5E32CC",
+        "scaffoldBackgroundColor": "#FFFFFF"
+      },
+      "divider": {
+        "dividerColor": "#C7C7C7"
+      },
+      "theme": {
+        "whiteColor": "#ffffff",
+        "grayBlackColor": "#5A5A5A",
+        "orangeColor": "#13294B",
+        "blackColor": "#000000",
+        "greyColor": "#888888",
+        "redColor": "#ff0008",
+        "redDarkColor": "#E23232",
+        "borderColor": "#707070",
+        "goldenColor": "#FFC107",
+        "greyLightColor": "#F1F1F1",
+        "greenLightColor": "#C0FFE6",
+        "greenColor": "#32AF04",
+        "textFieldInputColor": "#312B29",
+        "yellowColor": "#FFC107"
+      }
+    },
+    "dark_mode": {
+      "app_bar": {
+        "appbarBackground": "#13294B"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": "#13294B",
+        "secondaryColor": "#5E32CC",
+        "scaffoldBackgroundColor": "#FFFFFF"
+      },
+      "divider": {
+        "dividerColor": "#C7C7C7"
+      },
+      "theme": {
+        "whiteColor": "#ffffff",
+        "grayBlackColor": "#5A5A5A",
+        "orangeColor": "#13294B",
+        "blackColor": "#000000",
+        "greyColor": "#888888",
+        "redColor": "#ff0008",
+        "redDarkColor": "#E23232",
+        "borderColor": "#707070",
+        "goldenColor": "#FFC107",
+        "greyLightColor": "#F1F1F1",
+        "greenLightColor": "##C0FFE6",
+        "greenColor": "#32AF04",
+        "textFieldInputColor": "#312B29",
+        "validationTextColor": "#FF1D1D",
+        "yellowColor": "#FFC107"
+
+      }
+    }
+  }
+}
